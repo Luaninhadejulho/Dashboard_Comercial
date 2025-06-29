@@ -29,6 +29,7 @@ Facilitar o acompanhamento de indicadores estratégicos de vendas ao longo do te
 ## 🖼️ Exemplo visual
 
 ![Dashboard Comercial](./Detalhes%20Comercial.png)
+![Dashboard Comercial](./Overview%20Comercial.png)
 
 ## 📝 Observações
 
